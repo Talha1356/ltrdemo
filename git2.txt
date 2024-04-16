@@ -1,0 +1,9 @@
+Staging Area (Index):
+
+A temporary storage area where changes are prepared before committing. Files added to the staging area are included in the next commit.
+Conflict:
+
+A situation where Git cannot automatically merge changes from different branches. Conflicts occur when changes made to the same part of a file conflict with each other, requiring manual resolution.
+Rebase:
+
+Rearranging commits in a branch to appear as if they were made on top of the latest changes in another branch. Rebasing helps maintain a linear project history and integrates changes more cleanly than merging.
